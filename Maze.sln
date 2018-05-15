@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", "{3DBC3B86-C0EF-4F25-9D21-F2EF309F135E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeGenerate", "MazeGenerate\MazeGenerate.csproj", "{EA6CA44B-96D8-40CB-BD2C-D9A513C7710B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeBase", "MazeBase.cs\MazeBase.csproj", "{3FF5846D-EA19-46C1-A39F-763D8B1B6193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerCollections", "PowerCollections\PowerCollections.csproj", "{5821977D-AC2C-4912-BCD0-6E6B1A756167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release 2.0|Any CPU = Release 2.0|Any CPU
+		Release 4.5|Any CPU = Release 4.5|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DBC3B86-C0EF-4F25-9D21-F2EF309F135E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBC3B86-C0EF-4F25-9D21-F2EF309F135E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBC3B86-C0EF-4F25-9D21-F2EF309F135E}.Release 2.0|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBC3B86-C0EF-4F25-9D21-F2EF309F135E}.Release 2.0|Any CPU.Build.0 = Release|Any CPU
+		{3DBC3B86-C0EF-4F25-9D21-F2EF309F135E}.Release 4.5|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBC3B86-C0EF-4F25-9D21-F2EF309F135E}.Release 4.5|Any CPU.Build.0 = Release|Any CPU
+		{3DBC3B86-C0EF-4F25-9D21-F2EF309F135E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBC3B86-C0EF-4F25-9D21-F2EF309F135E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6CA44B-96D8-40CB-BD2C-D9A513C7710B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6CA44B-96D8-40CB-BD2C-D9A513C7710B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6CA44B-96D8-40CB-BD2C-D9A513C7710B}.Release 2.0|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6CA44B-96D8-40CB-BD2C-D9A513C7710B}.Release 2.0|Any CPU.Build.0 = Release|Any CPU
+		{EA6CA44B-96D8-40CB-BD2C-D9A513C7710B}.Release 4.5|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6CA44B-96D8-40CB-BD2C-D9A513C7710B}.Release 4.5|Any CPU.Build.0 = Release|Any CPU
+		{EA6CA44B-96D8-40CB-BD2C-D9A513C7710B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6CA44B-96D8-40CB-BD2C-D9A513C7710B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF5846D-EA19-46C1-A39F-763D8B1B6193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF5846D-EA19-46C1-A39F-763D8B1B6193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF5846D-EA19-46C1-A39F-763D8B1B6193}.Release 2.0|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF5846D-EA19-46C1-A39F-763D8B1B6193}.Release 2.0|Any CPU.Build.0 = Release|Any CPU
+		{3FF5846D-EA19-46C1-A39F-763D8B1B6193}.Release 4.5|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF5846D-EA19-46C1-A39F-763D8B1B6193}.Release 4.5|Any CPU.Build.0 = Release|Any CPU
+		{3FF5846D-EA19-46C1-A39F-763D8B1B6193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF5846D-EA19-46C1-A39F-763D8B1B6193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5821977D-AC2C-4912-BCD0-6E6B1A756167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5821977D-AC2C-4912-BCD0-6E6B1A756167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5821977D-AC2C-4912-BCD0-6E6B1A756167}.Release 2.0|Any CPU.ActiveCfg = Release|Any CPU
+		{5821977D-AC2C-4912-BCD0-6E6B1A756167}.Release 2.0|Any CPU.Build.0 = Release|Any CPU
+		{5821977D-AC2C-4912-BCD0-6E6B1A756167}.Release 4.5|Any CPU.ActiveCfg = Release|Any CPU
+		{5821977D-AC2C-4912-BCD0-6E6B1A756167}.Release 4.5|Any CPU.Build.0 = Release|Any CPU
+		{5821977D-AC2C-4912-BCD0-6E6B1A756167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5821977D-AC2C-4912-BCD0-6E6B1A756167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

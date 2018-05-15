@@ -1,0 +1,10 @@
+c:\Users\Ntpu\documents\visual studio 2013\Projects\Maze\MazeRunner\bin\Debug\MazeRunner.exe.config
+c:\Users\Ntpu\documents\visual studio 2013\Projects\Maze\MazeRunner\bin\Debug\MazeRunner.exe
+c:\Users\Ntpu\documents\visual studio 2013\Projects\Maze\MazeRunner\bin\Debug\MazeRunner.pdb
+c:\Users\Ntpu\documents\visual studio 2013\Projects\Maze\MazeRunner\bin\Debug\MazeBase.cs.exe
+c:\Users\Ntpu\documents\visual studio 2013\Projects\Maze\MazeRunner\bin\Debug\MazeBase.cs.pdb
+c:\Users\Ntpu\documents\visual studio 2013\Projects\Maze\MazeRunner\obj\Debug\MazeRunner.csprojResolveAssemblyReference.cache
+c:\Users\Ntpu\documents\visual studio 2013\Projects\Maze\MazeRunner\obj\Debug\MazeRunner.Properties.Resources.resources
+c:\Users\Ntpu\documents\visual studio 2013\Projects\Maze\MazeRunner\obj\Debug\MazeRunner.csproj.GenerateResource.Cache
+c:\Users\Ntpu\documents\visual studio 2013\Projects\Maze\MazeRunner\obj\Debug\MazeRunner.exe
+c:\Users\Ntpu\documents\visual studio 2013\Projects\Maze\MazeRunner\obj\Debug\MazeRunner.pdb

@@ -1,0 +1,10 @@
+C:\Users\朋友\Desktop\Maze2\Maze\MazeGenerate\bin\Release\MazeGenerate.exe.config
+C:\Users\朋友\Desktop\Maze2\Maze\MazeGenerate\bin\Release\MazeGenerate.exe
+C:\Users\朋友\Desktop\Maze2\Maze\MazeGenerate\bin\Release\MazeGenerate.pdb
+C:\Users\朋友\Desktop\Maze2\Maze\MazeGenerate\bin\Release\MazeBase.cs.exe
+C:\Users\朋友\Desktop\Maze2\Maze\MazeGenerate\bin\Release\MazeBase.cs.pdb
+C:\Users\朋友\Desktop\Maze2\Maze\MazeGenerate\obj\Release\MazeGenerate.csprojResolveAssemblyReference.cache
+C:\Users\朋友\Desktop\Maze2\Maze\MazeGenerate\obj\Release\MazeGenerate.Properties.Resources.resources
+C:\Users\朋友\Desktop\Maze2\Maze\MazeGenerate\obj\Release\MazeGenerate.csproj.GenerateResource.Cache
+C:\Users\朋友\Desktop\Maze2\Maze\MazeGenerate\obj\Release\MazeGenerate.exe
+C:\Users\朋友\Desktop\Maze2\Maze\MazeGenerate\obj\Release\MazeGenerate.pdb
